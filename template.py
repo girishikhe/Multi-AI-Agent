@@ -10,8 +10,8 @@ list_of_files = [
   f"{project_name}/common/__init__.py",
   f"{project_name}/common/logger.py",
   f"{project_name}/common/custom_exception.py",
-  f"{project_name}/settings/__init__.py",
-  f"{project_name}/settings/settings.py",
+  f"{project_name}/config/__init__.py",
+  f"{project_name}/config/settings.py",
   f"{project_name}/core/__init__.py",
   f"{project_name}/core/ai_agent.py",
   f"{project_name}/frontend/__init__.py",
@@ -21,6 +21,7 @@ list_of_files = [
   "setup.py",
   "Dockerfile",
   "Jenkinsfile",
+  ".env"
   
 ]
 
